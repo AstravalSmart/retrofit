@@ -1,0 +1,14 @@
+# Device Config
+Have the PIN config of the esp.
+
+# Firebase Config
+Have the firebase API and email & password
+```c
+#define API_KEY ""
+
+// User Email and password that already registerd or added in your project.
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
+#define DATABASE_URL "https://<>-default-rtdb.asia-<>.firebasedatabase.app/"
+
+```
